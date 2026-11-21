@@ -1,0 +1,9 @@
+# Base de datos local (se crea sola al ejecutar el programa)
+compras.db
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entorno virtual
+venv/
